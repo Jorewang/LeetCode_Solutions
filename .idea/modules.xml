@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D:/DATA/Desktop/code/FEAT-master/.idea/FEAT-master.iml" filepath="D:/DATA/Desktop/code/FEAT-master/.idea/FEAT-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/LeetCode.iml" filepath="$PROJECT_DIR$/.idea/LeetCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../attention/.idea/attention.iml" filepath="$PROJECT_DIR$/../attention/.idea/attention.iml" />
+      <module fileurl="file://D:/DATA/Desktop/code/few-shot-ctm-master/.idea/few-shot-ctm-master.iml" filepath="D:/DATA/Desktop/code/few-shot-ctm-master/.idea/few-shot-ctm-master.iml" />
+    </modules>
+  </component>
+</project>
