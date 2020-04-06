@@ -17,6 +17,3 @@ class Solution(object):
 
         return max
 
-s = input()
-sl = Solution()
-print(sl.lengthOfLongestSubstring(s))

@@ -17,7 +17,3 @@ class Solution(object):
             return False
 
 
-if __name__ == '__main__':
-    s = input()
-    c = Solution()
-    print(c.longstPalindrome(s))

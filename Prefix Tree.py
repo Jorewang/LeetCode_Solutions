@@ -66,13 +66,3 @@ class Trie(object):
             return False
 
 
-if __name__ == '__main__':
-    trie = Trie()
-    trie.insert("somestring")
-    trie.insert("somebody")
-    trie.insert("somebody1")
-    trie.insert("somebody3")
-    print(trie.search("key"))
-    print(trie.search("somebody3"))
-    print(trie.startsWith("some"))
-

@@ -7,7 +7,3 @@ class Solution(object):
         """
         return haystack.find(needle)
 
-
-if __name__ == '__main__':
-    s = "hello"
-    print(s.find("l0"))

@@ -15,10 +15,3 @@ def longest_common_substring(s1, s2):
     return s1[x_longest - longest: x_longest]
 
 
-if __name__ == '__main__':
-    s1 = input()
-    s2 = input()
-    while s1 and s2:
-        print(longest_common_substring(s1, s2))
-        s1 = input()
-        s2 = input()

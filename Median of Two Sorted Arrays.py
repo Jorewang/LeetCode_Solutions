@@ -56,8 +56,3 @@ class Solution(object):
                 return nums2[j]
 
 
-if __name__ == '__main__':
-    c = Solution()
-    nums1 = [1, 3, 4, 9]
-    nums2 = [2]
-    print(c.findMedianSortedArrays(nums1, nums2))
