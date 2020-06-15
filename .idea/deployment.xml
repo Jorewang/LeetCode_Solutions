@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="PublishConfigData">
     <serverData>
       <paths name="wz@192.168.126.147:22">
+=======
+  <component name="PublishConfigData" serverName="wz">
+    <serverData>
+      <paths name="wz">
+>>>>>>> a7819c6c12e156686e50a2f0644100576cfaa230
         <serverdata>
           <mappings>
             <mapping local="$PROJECT_DIR$" web="/" />

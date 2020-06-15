@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/leetcode.iml" filepath="$PROJECT_DIR$/.idea/leetcode.iml" />
+=======
+      <module fileurl="file://D:/DATA/Desktop/code/FEAT-master/.idea/FEAT-master.iml" filepath="D:/DATA/Desktop/code/FEAT-master/.idea/FEAT-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/LeetCode.iml" filepath="$PROJECT_DIR$/.idea/LeetCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../attention/.idea/attention.iml" filepath="$PROJECT_DIR$/../attention/.idea/attention.iml" />
+      <module fileurl="file://D:/DATA/Desktop/code/few-shot-ctm-master/.idea/few-shot-ctm-master.iml" filepath="D:/DATA/Desktop/code/few-shot-ctm-master/.idea/few-shot-ctm-master.iml" />
+>>>>>>> a7819c6c12e156686e50a2f0644100576cfaa230
     </modules>
   </component>
 </project>
